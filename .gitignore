@@ -1,0 +1,4 @@
+# Local scan history / user database
+*.db
+.vscode/
+__pycache__/
